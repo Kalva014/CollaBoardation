@@ -9,10 +9,10 @@
 * Inspiration: Microsoft Whiteboard
 
 ## Importance and Interests:
-* It seems practical where people would actually use it
-* We will learn about how servers work cause multiple people will be working on the same thing
-* Add more features....
-
+* It seems practical where people would actually use it to display ideas and such
+* We will learn about how servers work cause multiple people will be working on the same whiteboard
+* We can print the whiteboard so people can save their ideas
+* Add a chat bar which allows for team communication
 
 ## Class Diagram:
 
