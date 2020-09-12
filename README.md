@@ -1,5 +1,5 @@
 # CollaBoardation
-# CS 100 Programming Project
+
 ## Group Members Name and Email:
 * Kenneth Alvarez - kalva014@ucr.edu
 * Anthony Gao - agao011@ucr.edu
