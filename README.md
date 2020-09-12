@@ -23,10 +23,6 @@
 ## Language/Tools/Technology:
 Project is created with:
 * Languages:
-	
-## Report:
-
-## Input/Output(Includes Instructions):
 
 ## Website:
 
